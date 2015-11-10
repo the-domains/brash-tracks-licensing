@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Recent Placements
-datePublished: '2015-11-10T01:26:52.716Z'
-dateModified: '2015-11-10T01:26:45.218Z'
+datePublished: '2015-11-10T01:28:17.808Z'
+dateModified: '2015-11-10T01:28:14.253Z'
 title: Placements
 sourcePath: _posts/2015-11-10-placements.md
 published: true
