@@ -1,0 +1,23 @@
+name: Brash Tracks Licensing
+favicon: null
+layout_spectrum: 0.17228181916289032
+typography_spectrum: 0.6554052317515016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7537236965727061
+  lightness: 0.10048821615055203
+  saturation: 0.5681759566068649
+  rhythmicContrast: 0.32505099033005536
+purpose: []
