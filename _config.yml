@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b353a11-c041-41ff-9045-56637cc059ba.jpg
 name: Brash Tracks
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae694c52-6bc4-4a13-b382-b6e8711786ac.png
 title: Brash Tracks
 description: ' Music + Licensing'
 purpose: []
